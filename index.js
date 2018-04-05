@@ -1,4 +1,6 @@
-a + b
-a - b
-a * b
-a / b
+var number = 10
+
+function add() {
+  number += 2
+}
+
