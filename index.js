@@ -1,6 +1,6 @@
 var number = 10
 
-function add() {
+function add2() {
   number += 2
 }
 
